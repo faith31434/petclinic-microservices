@@ -1,5 +1,5 @@
 PATH="$PATH:/usr/local/bin"
-APP_REPO_NAME="muratcw-repo/petclinic-app-dev"
+APP_REPO_NAME="faith31434-repo/petclinic-app-dev"
 AWS_REGION="us-east-1"
 
 aws ecr create-repository \
